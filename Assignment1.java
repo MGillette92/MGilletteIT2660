@@ -1,4 +1,5 @@
 //Mark Gillette Assignment1 IT2660
+//based upon exercise 41
 import java.util.Scanner;
 
 class Listing {
